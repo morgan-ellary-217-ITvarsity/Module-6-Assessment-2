@@ -19,6 +19,11 @@ body{
      background-size: cover;
 }
 
+table{
+    background-color: white;
+    color: black;
+}
+
 p{
     line-height: 190%;
 }
@@ -234,7 +239,7 @@ ul.styled li{
 
 /* ***************************************************** */
 
-/* Copyright */
+/* Gallery */
 
 /* ***************************************************** */
 
@@ -271,7 +276,7 @@ ul.styled li{
     color:red;
 }
 
-/*=====contact page style section=====*/
+/*===== table contact page style section=====*/
 
 
 table.contactUs{
